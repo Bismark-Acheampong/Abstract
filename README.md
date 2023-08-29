@@ -2,7 +2,7 @@
 
 <center>Defining the Functional Redundancy in the Rap1 GTPase Binding RA Domains of Canoe/Afadin in normal embryonic development</center>
 
-Bismark Acheampong1, Noah J. Gurley2, Emily D. McParland2, Corbin Jensen2, Mark Peifer2,3.
+Bismark Acheampong<sup>1</sup>, Noah J. Gurley2, Emily D. McParland2, Corbin Jensen2, Mark Peifer2,3.
 
 Department of Theoretical and Applied Biology, KNUST, GHANA1, Department of Biology2, , Lineberger Comprehensive Cancer Center3, University of North Carolina at Chapel Hill, Chapel Hill, North Carolina 27599-3280, USA
 
