@@ -1,0 +1,11 @@
+
+
+.title {
+    text-align: center;
+    font-weight: bold;
+}
+
+.justify {
+    text-align: justify;
+    text-justify: distribute;
+}
